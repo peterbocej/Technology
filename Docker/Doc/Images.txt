@@ -1,0 +1,4 @@
+Get Image from server to local
+> docker pull image:version
+Example to get postgres latest image:
+> docker pull postgres:latest
